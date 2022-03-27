@@ -54,7 +54,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/charithaomprakash"
     - label: "Google Scholar"
-      icon: "fas fa-solid fa-graduation-cap"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=6f9bFFgAAAAJ&hl=en"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
